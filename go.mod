@@ -2,7 +2,7 @@ module github.com/jh125486/lld
 
 go 1.24.2
 
-require github.com/chromedp/chromedp v0.13.6
+require github.com/chromedp/chromedp v0.13.7
 
 require (
 	github.com/chromedp/cdproto v0.0.0-20250530212709-4dcc110a7b92 // indirect
